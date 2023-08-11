@@ -1,3 +1,3 @@
 # Demo
 
-this is my fiurst readme.md seems cool
+this is my first readme.md seems cool 
